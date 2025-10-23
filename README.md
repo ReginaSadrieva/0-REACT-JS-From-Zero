@@ -31,4 +31,3 @@ Let harvest come.
 Let the craft become mine.
 
 Unseal the code `index.html`
-https://reginasadrieva.github.io/0-REACT-JS-From-Zero/
